@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+단순한 react-redux 기초 구조만 명시 된 예제 입니다. 
+
 ## Available Scripts
 
 In the project directory, you can run:
